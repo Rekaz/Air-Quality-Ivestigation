@@ -1,1 +1,2 @@
-# Air-Quality-Ivestigation
+# Air-Quality-Investigation using Association Rule Mining
+The  data used for the study was obtained from a website which is an open government data platform for different states of India. The data is of year 2014. Firstly, I have applied exploratory data analysis and then, I have applied two ARM algorithms that are Apriori and Eclat. The experimental  procedure  involved the use of  various R packages such as openair, stats, arules,  readr,   rattle, vcd, ggplot2, lattice and latticeExtra for the dataset analysis.  
